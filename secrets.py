@@ -1,9 +1,4 @@
-secrets = {
-    'ssid':'batcave',
-    'password':'20thCenturyme',
+secrets={
+    'ssid' : 'username',
+    'password': 'password'
     }
-# 
-# secrets={
-#     'ssid' : 'Realme-bis',
-#     'password': 'password123'
-#     }
