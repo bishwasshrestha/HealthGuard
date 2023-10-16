@@ -31,6 +31,6 @@ mqtt_server = 'xxx.xxx.xxx.xxx' //my mqtt broker(mosquitto) was running on local
 client_id = 'PicoW' // device id
 ```
 
-mqttConnect.py helps to connect pico w via MQTT broker called mosquitto.
+mqttConnect.py helps to connect pico w via MQTT broker called mosquitto and publish the temperature data.
 
 
